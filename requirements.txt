@@ -1,0 +1,11 @@
+seaborn
+pandas_profiling
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+missingno
+streamlit_pandas_profiling
+Markdown
+xlsxwriter
